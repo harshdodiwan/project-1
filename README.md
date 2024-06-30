@@ -1,4 +1,10 @@
-project1 
-created a project where i used HTML5, CSS, JAVASCRIPT,
-In this project i created a buttons which change the background colour by cliking on the buttonn
+project 1 
+"I created a project called 'Background Color Changer' using HTML5, CSS, and JavaScript. In this project, I made several color buttons, and when we click on a button, the background color changes to the selected color."
+
+
+
+
+
+
+
  
